@@ -32,9 +32,9 @@ header {
     font-size: 24px;
     font-weight: 700;
     color: #fff;
-    padding: 48px 0 23px;
+    padding: 48px 120px 23px;
     margin-bottom: 32px;
-    border-bottom: #3D538A;
+    border-bottom: 2px solid #3D538A;
 }
 
 .timer__form {
