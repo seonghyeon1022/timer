@@ -68,10 +68,6 @@ header {
     font-weight: 700;
 }
 
-.timer__input::placeholder {
-    color: #FFFFFF;
-}
-
 .timer__btn--start,
 .timer__btn--reset {
     background: none;
